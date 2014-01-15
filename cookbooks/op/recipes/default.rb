@@ -15,6 +15,8 @@ package 'ruby-libxml'
 package 'libffi-dev'
 package 'libpgsql-ruby'
 package 'libpq-dev'
+package 'nginx'
+
 
 # install ack
 package 'ack-grep'

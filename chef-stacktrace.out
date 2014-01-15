@@ -1,5 +1,5 @@
-Generated at 2014-01-05 17:27:13 -0500
-Chef::Exceptions::EnclosingDirectoryDoesNotExist: directory[~/tmp] (op::default line 55) had an error: Chef::Exceptions::EnclosingDirectoryDoesNotExist: Parent directory ~ does not exist, cannot create ~/tmp
+Generated at 2014-01-15 12:00:43 -0500
+Chef::Exceptions::Package: package[ngnix] (op::default line 18) had an error: Chef::Exceptions::Package: No version specified, and no candidate version available for ngnix
 /var/lib/gems/1.9.1/gems/chef-11.8.2/lib/chef/mixin/why_run.rb:241:in `run'
 /var/lib/gems/1.9.1/gems/chef-11.8.2/lib/chef/mixin/why_run.rb:322:in `block in run'
 /var/lib/gems/1.9.1/gems/chef-11.8.2/lib/chef/mixin/why_run.rb:321:in `each'
